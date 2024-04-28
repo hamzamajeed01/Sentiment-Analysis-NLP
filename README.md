@@ -1,4 +1,4 @@
-# Sentiment-Analysis-NLP
+# Sentiment-Analysis-NLP Using ngram models 
 I have did sentiment analysis on a dataset of apple product reviews(tweets)
 Build sentiment classifiers using bag of words and ngram model for the given dataset. The data set 
 contains reviews about Apple products with labels 1 (negative), 3(neutral), 5 (positive), and 
